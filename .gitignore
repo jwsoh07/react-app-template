@@ -1,0 +1,15 @@
+node_modules
+
+# production
+build
+dist
+
+# build files
+bundle.js
+bundle.js.LICENSE.txt
+
+# logs
+yarn-error.log
+
+# misc
+.DS_Store
